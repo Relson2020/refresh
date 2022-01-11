@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Refresh</string>
+    <string name="textView">0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longPress">LongPress</string>
+    <string name="popButton">Pop button</string>
+</resources>
